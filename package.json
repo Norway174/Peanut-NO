@@ -1,0 +1,23 @@
+{
+  "name": "peanut-no",
+  "version": "1.0.0",
+  "description": "A companion Bot for Peanut. A very simple moderation bot to filter out bad words!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "bad",
+    "words",
+    "swears"
+  ],
+  "author": "Norway174",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1"
+  }
+}
